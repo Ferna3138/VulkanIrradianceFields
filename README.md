@@ -4,4 +4,4 @@ The main algorithm in this project is Irradiance Fields which is a probe based h
 
 To address these problems, we enhance the algorithm with ray tracing and extensive caching, which leverages hardware acceleration to provide a fast and efficient update rate, making it suitable for dynamic scenes. 
 
-This project is based on the Nvidia Vulkan tutorial Engine which is necessary to run the application. The engine can be downloaded from: https://nvpro-samples.github.io/vk_raytracing_tutorial_KHR/
+This project is based on the Nvidia Vulkan Ray Tracing tutorial Engine which is necessary to run the application. The engine can be downloaded from: https://nvpro-samples.github.io/vk_raytracing_tutorial_KHR/
